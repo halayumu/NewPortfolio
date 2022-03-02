@@ -1,1 +1,44 @@
-エラー 1045（28000）ログイン時にパスワードを入力していない、または、入力したパスワードが間違えている。
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header ul {
+    display: flex;
+    background-color: white;
+}
+
+header li {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 40px 40px;
+}
+
+header h1 {
+    text-align: center;
+    padding: 20% 18%;
+    background-color: #242424;
+    color: white;
+}
+
+#self-introduction {
+    display: flex;
+    padding: 100px 100px;
+}
+
+main article #introduction-img {
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+}
+
+
+/* #introduction-1 {
+    padding: 0px 0px 0px 50px;
+}
+*/
+
+#introduction-2 {
+    padding: 0px 0px 0px 25%;
+}
