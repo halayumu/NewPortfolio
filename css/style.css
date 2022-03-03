@@ -24,7 +24,7 @@ header h1 {
 
 #self-introduction {
     display: flex;
-    padding: 100px 100px;
+    padding: 5% 20% 0% 20%;
 }
 
 main article #introduction-img {
@@ -33,12 +33,20 @@ main article #introduction-img {
     height: 400px;
 }
 
-
-/* #introduction-1 {
-    padding: 0px 0px 0px 50px;
-}
-*/
-
 #introduction-2 {
-    padding: 0px 0px 0px 25%;
+    padding: 0% 0% 0% 19%;
+}
+
+#self-qr {
+    padding: 10% 0% 0% 50%;
+}
+
+#introduction-2 li {
+    list-style: none;
+    padding: 5px 0px 5px 0px;
+}
+
+#hobby h2 {
+    text-align: center;
+    padding: 5% 0% 0% 0%;
 }
