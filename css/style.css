@@ -46,7 +46,32 @@ main article #introduction-img {
     padding: 5px 0px 5px 0px;
 }
 
+#hobby {
+    padding: 0% 10% 0% 10%;
+}
+
 #hobby h2 {
+    padding: 0% 0% 5% 0%;
+}
+
+#hobby img {
+    border-radius: 35px;
+    width: 223px;
+}
+
+#hobby-detail {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#hobby-detail h3 {
+    padding: 10px 0px 5px 0px;
+}
+
+#hobby {
     text-align: center;
-    padding: 5% 0% 0% 0%;
+}
+
+.Explanation {
+    width: 200px;
 }
