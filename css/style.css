@@ -118,3 +118,43 @@ main article #introduction-img {
     width: 100px;
     height: 90px;
 }
+
+#id {
+    width: 50px;
+}
+
+#future-engineer h2 {
+    text-align: center;
+}
+
+#future-detail {
+    text-align: center;
+    padding: 3% 0% 1.5% 0%;
+}
+
+#future-detail h2 {
+    padding: 0% 0% 1.5% 0%;
+}
+
+#solution {
+    padding: 3% 0% 1.5% 0%;
+}
+
+#arrow {
+    width: 100px;
+    height: 100px;
+}
+
+#new-work {
+    display: flex;
+    padding: 30px 10% 0px 10%;
+    justify-content: space-evenly;
+}
+
+#defore img {
+    width: 180px;
+}
+
+#after img {
+    width: 180px;
+}
